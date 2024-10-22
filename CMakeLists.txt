@@ -10,5 +10,5 @@ add_executable(ej_caso_final_integrador
     .idea/misc.xml
     .idea/modules.xml
     .idea/vcs.xml
-    main.cpp
-    README.md)
+    "primer ejercicio/main.cpp"
+        README.md)

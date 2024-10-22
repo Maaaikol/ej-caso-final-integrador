@@ -50,9 +50,7 @@ int evaluate(Tokens& tokens) {
             int b = stack.top();
             stack.pop();
             stack.push( a / b );
-        } else if (token == "min") {
-            int minValue = stack.top();
-            stack.top();
+        } else
         }
     }
 
