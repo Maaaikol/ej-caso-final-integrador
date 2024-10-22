@@ -1,4 +1,6 @@
 # ninja log v6
-10	465	7512904461823647	build.ninja	8bd328a745e719b4
+10	465	7512913785735758	build.ninja	8bd328a745e719b4
 3	961	7512904970172020	CMakeFiles/ej_caso_final_integrador.dir/PrimerEjercicio/main.cpp.obj	85f34bcd46c94714
 964	1162	7512904979780482	ej_caso_final_integrador.exe	478b4a869778b35c
+11	924	7512913871683904	CMakeFiles/ej_caso_final_integrador.dir/PrimerEjercicio/main.cpp.obj	271d02c6601d00e6
+924	1140	7512913880808057	ej_caso_final_integrador.exe	478b4a869778b35c

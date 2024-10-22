@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/micha/Documents/GitHub/ej-caso-final-integrador/cmake-build-debug",
-		"source" : "C:/Users/micha/Documents/GitHub/ej-caso-final-integrador"
+		"build" : "C:/Users/micha/Documents/GitHub/Caso_final_integrador/ej-caso-final-integrador/cmake-build-debug",
+		"source" : "C:/Users/micha/Documents/GitHub/Caso_final_integrador/ej-caso-final-integrador"
 	},
 	"version" : 
 	{
